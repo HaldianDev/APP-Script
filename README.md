@@ -1,4 +1,4 @@
-# APP-Script
+# Automation-Script-Kirim-keEmail
 APP Script ngirim file lewat id dari google drive
 ![image](https://github.com/user-attachments/assets/997d9fde-4e85-4180-8e06-f35ba57d9c2c)
 untuk mendapatkan id nya kita masuk ke g-drive dalam example dari g-drive drive.google.com/file/d/15HThvXEcx092rMxo14KQaD3Z/view?usp=sharing  yang akan kita ambil id nya berada di setelah /d dan sebelum view => 15HThvXEcx092rMxo14KQaD3Z  
